@@ -1,0 +1,22 @@
+/* Delmar Kirkland*/
+
+body
+{
+    background-image: radial-gradient(rgb(255, 0, 0),rgb(255, 253, 253),blue);
+    font-weight: bold;
+
+}
+
+h1
+{
+    text-align: center;
+    color: crimson;
+    font-weight: bolder;
+    
+}
+
+.buttonDK
+{
+    height: 30px;
+    width: 75px;
+}

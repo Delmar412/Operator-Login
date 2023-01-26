@@ -1,0 +1,41 @@
+/* Delmar Kirkland*/
+body
+{
+    background-image: linear-gradient(rgb(210, 180, 140),rgb(105, 105, 1));
+
+}
+
+p
+{
+    font-size: 50px;
+    font-family: monospace;
+    font-style: oblique;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.buttonDK
+{
+    background-color: rgb(247, 61, 61);
+    border-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+
+}
